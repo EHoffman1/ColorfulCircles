@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ColorfulCircles:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ColorfulCircles_jar</output-path>
+    <root id="archive" name="ColorfulCircles.jar">
+      <element id="module-output" name="ColorfulCircles" />
+    </root>
+  </artifact>
+</component>
